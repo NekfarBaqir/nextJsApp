@@ -1,0 +1,37 @@
+.container {
+  width: 80%;
+  margin: 1rem auto;
+}
+.container50{
+  width: 40%;
+  margin: 3rem auto;
+}
+.textCenter {
+  text-align: center;
+  color: rgb(61, 42, 2);
+}
+.liUndecorated {
+  list-style-type: none;
+  border-top: 1px solid #cbdb9c;
+  border-bottom: 1px solid #cbdb9c;
+}
+.liBordered {
+  width: 50%;
+
+  padding: 0;
+  margin: 20px auto;
+}
+.nopaddingMargin {
+  padding: 0 12px !important;
+  margin: 0 !important;
+}
+.specialA{
+  color: #524104;
+  text-decoration: none !important;
+}
+.specialA:hover{
+  color:#000000;
+}
+.imgCircle{
+  border-radius: 50%;
+}
